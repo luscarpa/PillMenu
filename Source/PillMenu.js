@@ -3,7 +3,7 @@ Script: PillMenu
 
 License: MIT-style license.
 
-Copyright: Copyright (c) 2007-20010 Luca Scarpa aka luscarpa(http://www.luscarpa.com/).
+Copyright: Copyright (c) 2007-2010 Luca Scarpa aka luscarpa(http://www.luscarpa.com/).
 
 Author: Luca Scarpa (http://www.luscarpa.com)
 */
